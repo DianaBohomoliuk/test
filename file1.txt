@@ -1,4 +1,4 @@
-
-
+Then changes from GitHub instead local.
+And try resolve it.
 
 GitHub changes.
